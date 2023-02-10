@@ -4,7 +4,7 @@
 
 - Esta landing page foi feita utilizando HTML, CSS e JAVASCRIPT.
 - Interface Light Purple.
-- Possue destaques nos itens de navegação e toggle button.
+- Possui destaques nos itens de navegação e toggle button.
 
 # Demonstrações
 <img src="https://media.discordapp.net/attachments/928825047580311562/1064942217896132708/Page.png?width=965&height=473">
